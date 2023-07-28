@@ -1,0 +1,29 @@
+{
+  "name": "javascript-assignment",
+  "version": "1.0.0",
+  "description": "Link Test: https://pastebin.com/VM9iti4h",
+  "main": "task.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhaydar/javascript-assignment.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "js",
+    "unit",
+    "dsa"
+  ],
+  "author": "Haydar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadhaydar/javascript-assignment/issues"
+  },
+  "homepage": "https://github.com/ahmadhaydar/javascript-assignment#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
